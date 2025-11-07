@@ -1,3 +1,10 @@
-console.log("Ola Mundo")
-
 alert('BBQ CHIKEN ALERT')
+console.log("Ola Mundo");
+
+let churrasco = "sim";
+
+if ( churrasco == "sim") {
+    alert("vai ter churrasco!");
+} else {
+    alert("Então vamos marcar o churrasco!");
+}
